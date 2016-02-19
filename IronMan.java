@@ -8,4 +8,8 @@ public class IronMan {
     public void roar() {
         System.out.println("I AM IRON MAN!!!!");
     }
+
+    public void message(){
+        System.out.println("Hello world");
+    }
 }
